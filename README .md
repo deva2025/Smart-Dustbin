@@ -25,19 +25,25 @@ This project demonstrates a smart dustbin system using Arduino, where the dustbi
 
 - Download and install the Arduino IDE from arduino.cc.
 - Connect your Arduino board to your computer using a USB cable.
+  
 2.Libraries:
 
 - Install the required libraries:
 - 'Servo' library for controlling the servo motor.
 - 'NewPing' library for interfacing with the ultrasonic sensor.
+  
 3.Connections:
 
 - Connect the ultrasonic sensor and servo motor to the Arduino board as per the circuit diagram.
+  
 4.Upload Code:
 
 - Open 'Smart Dustbin arduino code' file in Arduino IDE.
 - Verify and upload the code to your Arduino board.
+  
   ![Screenshot (229)](https://github.com/deva2025/Smart-Dustbin/assets/166497101/d7675c40-4414-4d50-98a5-f0de4d069866)
+
+  
   ![Screenshot (230)](https://github.com/deva2025/Smart-Dustbin/assets/166497101/edabb1c7-0124-477c-82f2-a4a644ae9156)
     
 ## Features
