@@ -17,7 +17,7 @@ This project demonstrates a smart dustbin system using Arduino, where the dustbi
 
 ## Circuit Diagram:
 
-
+![Screenshot (234)](https://github.com/deva2025/Smart-Dustbin/assets/166497101/e5a269f1-f3a1-472b-b738-8dfe7fcc3343)
 
 ## Installation
 
