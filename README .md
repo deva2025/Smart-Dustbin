@@ -38,6 +38,7 @@ This project demonstrates a smart dustbin system using Arduino, where the dustbi
 - Open 'Smart Dustbin arduino code' file in Arduino IDE.
 - Verify and upload the code to your Arduino board.
   ![Screenshot (229)](https://github.com/deva2025/Smart-Dustbin/assets/166497101/d7675c40-4414-4d50-98a5-f0de4d069866)
+  ![Screenshot (230)](https://github.com/deva2025/Smart-Dustbin/assets/166497101/edabb1c7-0124-477c-82f2-a4a644ae9156)
     
 ## Features
 
